@@ -1,0 +1,2 @@
+Programm file something 
+which (delete text between two brackets)

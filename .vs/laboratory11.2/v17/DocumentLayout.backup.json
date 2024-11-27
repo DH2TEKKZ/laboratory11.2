@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\laboratory works\\laboratory11.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C41760-CBCB-475A-8FEF-EB900B7D7FD4}|..\\UnitTest11.2\\UnitTest11.2.vcxproj|C:\\laboratory works\\UnitTest11.2\\UnitTest11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9345A7D8-5356-44AC-AA69-8F7EA410A229}|laboratory11.2.vcxproj|C:\\laboratory works\\laboratory11.2\\lab11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9345A7D8-5356-44AC-AA69-8F7EA410A229}|laboratory11.2.vcxproj|solutionrelative:lab11.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest11.2.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\UnitTest11.2\\UnitTest11.2.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest11.2\\UnitTest11.2.cpp",
+              "ToolTip": "C:\\laboratory works\\UnitTest11.2\\UnitTest11.2.cpp",
+              "RelativeToolTip": "..\\UnitTest11.2\\UnitTest11.2.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T18:26:45.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab11.2.cpp",
+              "DocumentMoniker": "C:\\laboratory works\\laboratory11.2\\lab11.2.cpp",
+              "RelativeDocumentMoniker": "lab11.2.cpp",
+              "ToolTip": "C:\\laboratory works\\laboratory11.2\\lab11.2.cpp",
+              "RelativeToolTip": "lab11.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T15:46:23.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
